@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Satisfy-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="Satisfy-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="Satisfy-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="Satisfy-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Satisfy-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Satisfy-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="Satisfy-Regular.ttf._c_m_a_p.ttx"/>
+  <fpgm src="Satisfy-Regular.ttf._f_p_g_m.ttx"/>
+  <prep src="Satisfy-Regular.ttf._p_r_e_p.ttx"/>
+  <cvt src="Satisfy-Regular.ttf._c_v_t.ttx"/>
+  <loca src="Satisfy-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="Satisfy-Regular.ttf._g_l_y_f.ttx"/>
+  <kern src="Satisfy-Regular.ttf._k_e_r_n.ttx"/>
+  <name src="Satisfy-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="Satisfy-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="Satisfy-Regular.ttf._g_a_s_p.ttx"/>
+</ttFont>
